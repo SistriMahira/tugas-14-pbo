@@ -1,0 +1,4 @@
+interface Pembayaran {
+    double hitungTotalBayar();
+}
+
